@@ -1,0 +1,6 @@
+密码学是研究编制密码和破译密码的技术科学。研究密码变化的客观规律，应用于编制密码以保守通信秘密的，称为编码学；应用于破译密码以获取通信情报的，称为破译学，总称密码学。
+电报最早是由美国的摩尔斯在1844年发明的，故也被叫做摩尔斯电码。
+李宇i am liyu
+fly fly wu hu~~~
+PyCharm is the best IDE I've ever used. With PyCharm, you can access the command line, connect to a database, create a virtual environment, and manage your version control system all in one place, saving time by avoiding constantly switching between windows. I couldn't imagine going back to programming without PyCharm's local history feature and debugger. Add the rest of its convenient shortcuts and features, and you have the perfect IDE.
+pycharm
